@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace Clone_MovieMVC_Data
 {
+    /*T means that it can only be implements in class type,
+      class are objects that we created. 
+    */
     public interface IRepository<T>where T:class
     {
         // Marks an entity as new
