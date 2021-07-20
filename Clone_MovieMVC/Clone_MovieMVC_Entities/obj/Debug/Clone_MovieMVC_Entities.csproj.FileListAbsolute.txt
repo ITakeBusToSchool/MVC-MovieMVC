@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Entities\bin\Debug\Clone_MovieMVC_Entities.dll.config
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Entities\bin\Debug\Clone_MovieMVC_Entities.dll
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Entities\bin\Debug\Clone_MovieMVC_Entities.pdb
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Entities\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Entities\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Entities\obj\Debug\Clone_MovieMVC_Entities.csproj.CopyComplete
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Entities\obj\Debug\Clone_MovieMVC_Entities.dll
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Entities\obj\Debug\Clone_MovieMVC_Entities.pdb
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Entities\obj\Debug\Clone_MovieMVC_Entities.csprojAssemblyReference.cache

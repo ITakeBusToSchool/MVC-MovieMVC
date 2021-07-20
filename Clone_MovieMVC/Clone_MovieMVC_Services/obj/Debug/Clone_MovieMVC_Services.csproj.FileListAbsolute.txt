@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Services\bin\Debug\Clone_MovieMVC_Services.dll
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Services\bin\Debug\Clone_MovieMVC_Services.pdb
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Services\bin\Debug\Clone_MovieMVC_Data.dll
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Services\bin\Debug\Clone_MovieMVC_Entities.dll
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Services\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Services\bin\Debug\Clone_MovieMVC_Data.pdb
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Services\bin\Debug\Clone_MovieMVC_Data.dll.config
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Services\bin\Debug\Clone_MovieMVC_Entities.pdb
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Services\bin\Debug\Clone_MovieMVC_Entities.dll.config
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Services\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Services\obj\Debug\Clone_MovieMVC_Services.csprojAssemblyReference.cache
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Services\obj\Debug\Clone_MovieMVC_Services.csproj.CopyComplete
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Services\obj\Debug\Clone_MovieMVC_Services.dll
+C:\Users\user\Desktop\antra_dotNet_batch\training\MVC\Clone_MovieMVC\Clone_MovieMVC_Services\obj\Debug\Clone_MovieMVC_Services.pdb

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clone_MovieMVC_Data", "Clone_MovieMVC_Data\Clone_MovieMVC_Data.csproj", "{65850293-4D98-4753-AAE0-DF9B0B4F0DF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clone_MovieMVC_Services", "Clone_MovieMVC_Services\Clone_MovieMVC_Services.csproj", "{138314B2-2ADE-401A-A2F6-948B957F8546}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clone_MovieMVC_Entities", "Clone_MovieMVC_Entities\Clone_MovieMVC_Entities.csproj", "{963F382B-1361-43CF-8AE5-2AC3B3D0BAF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clone_MovieMVC", "Clone_MovieMVC\Clone_MovieMVC.csproj", "{758998A6-8564-4351-92E2-9A7D3FE68B2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clone_MoiveMVC_UnitTest", "Clone_MoiveMVC_UnitTest\Clone_MoiveMVC_UnitTest.csproj", "{838B4D22-5D8C-4ECC-B853-1B9AC6C64BE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65850293-4D98-4753-AAE0-DF9B0B4F0DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65850293-4D98-4753-AAE0-DF9B0B4F0DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65850293-4D98-4753-AAE0-DF9B0B4F0DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65850293-4D98-4753-AAE0-DF9B0B4F0DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{138314B2-2ADE-401A-A2F6-948B957F8546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{138314B2-2ADE-401A-A2F6-948B957F8546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{138314B2-2ADE-401A-A2F6-948B957F8546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{138314B2-2ADE-401A-A2F6-948B957F8546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{963F382B-1361-43CF-8AE5-2AC3B3D0BAF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{963F382B-1361-43CF-8AE5-2AC3B3D0BAF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{963F382B-1361-43CF-8AE5-2AC3B3D0BAF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{963F382B-1361-43CF-8AE5-2AC3B3D0BAF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{758998A6-8564-4351-92E2-9A7D3FE68B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{758998A6-8564-4351-92E2-9A7D3FE68B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{758998A6-8564-4351-92E2-9A7D3FE68B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{758998A6-8564-4351-92E2-9A7D3FE68B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{838B4D22-5D8C-4ECC-B853-1B9AC6C64BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{838B4D22-5D8C-4ECC-B853-1B9AC6C64BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{838B4D22-5D8C-4ECC-B853-1B9AC6C64BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{838B4D22-5D8C-4ECC-B853-1B9AC6C64BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4718BB35-0F3A-411A-AF55-DBEDB1742440}
+	EndGlobalSection
+EndGlobal
